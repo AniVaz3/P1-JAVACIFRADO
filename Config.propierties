@@ -1,0 +1,5 @@
+#Configuración del Cifrado César
+#Wed Nov 27 23:53:35 CST 2024
+desplazamiento=5
+nombreArchivoEncriptado=C\:\\Users\\Isa Vaz\\Documents\\CIFRADO-CESAR-PROYECTO1\\Filescipher\\ENC.TXT
+nombreArchivoOriginal=C\:\\Users\\Isa Vaz\\Documents\\CIFRADO-CESAR-PROYECTO1\\Filescipher\\CIF.TXT
