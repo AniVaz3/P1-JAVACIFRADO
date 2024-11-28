@@ -6,6 +6,7 @@ import java.io.IOException;
  * @author AniVaz
  * @version 1.0
  * @since 11/27/2024
+ *
  */
 public class Main {
     public static void main(String[] args) throws IOException {
